@@ -12,14 +12,20 @@ It allows users to sign up, log in, and engage in real-time chat with other user
 * User authentication (sign up, log in, log out) with JWT tokens.
  * Real-time chat functionality using WebSocket.
 * User can join different chat rooms.
-* Send and receive messages in real-time.
-* View online/offline status of users.
+* Send and receive messages in real time.
+* View the online/offline status of users.
 * User profile management.
 * Responsive design for both desktop and mobile.
 
   ## Deployment
   Backend URL : https://chatting-app-9hxt.onrender.com
+  
   Frontend URL : https://chatting-app-alpha.vercel.app/login
 
-  ## Snapshots
+  ## Let's Connect
+  Thank you for using the chat App! If you have any questions, encounter issues, or want to provide feedback, please don't hesitate to contact me. 
+  
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushi-gupta-b98676236/)
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_arushi_gupta/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Ayushi0516)  
   
