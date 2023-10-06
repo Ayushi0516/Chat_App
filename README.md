@@ -22,6 +22,16 @@ It allows users to sign up, log in, and engage in real-time chat with other user
   
   Frontend URL : https://chatting-app-alpha.vercel.app/login
 
+## snapshots
+
+![chatapp_register](https://github.com/Ayushi0516/Chat_App/assets/101566272/b09ceff6-2182-49f7-ade2-72c142959be0)
+
+![chatapp_login](https://github.com/Ayushi0516/Chat_App/assets/101566272/7324bfc8-2a51-486d-a1bd-da5635d5ec61)
+
+![chatapp_dashboard](https://github.com/Ayushi0516/Chat_App/assets/101566272/36027b56-066e-42c1-afdf-1641092c6490)
+
+
+
   ## Let's Connect
   Thank you for using the chat App! If you have any questions, encounter issues, or want to provide feedback, please don't hesitate to contact me. 
   
